@@ -4,6 +4,8 @@
 
 {% hint style="info" %}
 These docs are in active development by the Yearn community.
+
+This is just a staged version of the docs to share an updated TOC. Please go to [https://docs.yearn.finance/](https://docs.yearn.finance/) for the official docs!
 {% endhint %}
 
 Yearn Finance is a suite of decentralized finance \(DeFi\) products focused on creating a simple way to generate high risk-adjusted returns for depositors of various assets via best-in-class lending protocols, liquidity pools, and community-made yield farming strategies on Ethereum.
