@@ -6,5 +6,3 @@
 
 {% page-ref page="how-to-make-a-yip.md" %}
 
-
-
