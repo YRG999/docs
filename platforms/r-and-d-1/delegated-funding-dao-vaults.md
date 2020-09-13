@@ -2,7 +2,7 @@
 description: In development
 ---
 
-# Delegated Funding DAO Vaults
+# DAO Vaults
 
 YFI holders can provide capital to DAOs approved to accept funding in the DAO vault ecosystem. DAOs wishing to receive funding are required to setup a [Gitcoin Grants](https://gitcoin.co/grants/) page and apply for funding via the [Yearn governance forum](https://gov.yearn.finance/). If there is sufficient interest to approve the DAO for funding an off-chain vote will be conducted \([https://vote.yearn.finance](https://vote.yearn.finance/)\). If voting is successul the DAO will be added to the DAO vault ecosystem.
 

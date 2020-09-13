@@ -1,4 +1,4 @@
-# How To Make a YIP
+# Make a YIP
 
 ## Abstract
 

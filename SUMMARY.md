@@ -1,30 +1,35 @@
 # Table of contents
 
 * [Introduction to Yearn](README.md)
-* [FAQ](faq.md)
-* [DeFi Glossary](defi-glossary.md)
-* [How-To Guides](how-to-guides/README.md)
-  * [How To Participate in a yVault](how-to-guides/how-to-participate-in-a-yvault.md)
-  * [How To Understand yVault ROI](how-to-guides/how-to-understand-yvault-roi.md)
-  * [How To Make a YIP](how-to-guides/how-to-make-a-yip.md)
-* [Governance](governance.md)
-* [YFI, yUSD, and yTokens](yfi-yusd-and-ytokens.md)
 
-## Products
+## Guides
 
-* [yVaults](products/yvaults.md)
-* [Earn](products/earn.md)
-* [Zap](products/zap.md)
-* [yInsure](products/yinsure.md)
+* [Getting Started](guides/getting-started.md)
+* [Deposit to a yVault](guides/how-to-participate-in-a-yvault.md)
+* [What's my yVault ROI?](guides/how-to-understand-yvault-roi.md)
+* [Governance](guides/governance.md)
+* [Make a YIP](guides/how-to-make-a-yip.md)
 
-## R&D
+## References
 
-* [yBorrow](r-and-d/yborrow.md)
-* [yLiquidate](r-and-d/yliquidate.md)
-* [ySwap](r-and-d/yswap.md)
-* [yTrade](r-and-d/ytrade.md)
-* [Delegated Funding DAO Vaults](r-and-d/delegated-funding-dao-vaults.md)
-* [StableCredit](r-and-d/stablecredit.md)
+* [FAQ](references/faq.md)
+* [DeFi Glossary](references/defi-glossary.md)
+* [YFI, yUSD, and yTokens](references/yfi-yusd-and-ytokens.md)
+
+## Platforms
+
+* [PROD](platforms/prod/README.md)
+  * [yVaults](platforms/prod/yvaults.md)
+  * [Earn](platforms/prod/earn.md)
+  * [Zap](platforms/prod/zap.md)
+  * [yInsure](platforms/prod/yinsure.md)
+* [R&D](platforms/r-and-d-1/README.md)
+  * [yBorrow](platforms/r-and-d-1/yborrow.md)
+  * [yLiquidate](platforms/r-and-d-1/yliquidate.md)
+  * [ySwap](platforms/r-and-d-1/yswap.md)
+  * [yTrade](platforms/r-and-d-1/ytrade.md)
+  * [DAO Vaults](platforms/r-and-d-1/delegated-funding-dao-vaults.md)
+  * [StableCredit](platforms/r-and-d-1/stablecredit.md)
 
 ## Developers
 
